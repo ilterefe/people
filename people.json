@@ -2132,7 +2132,7 @@
     },
     {
         "name": "Alan Flower",
-        "bio": "<p>Alan heads the HCL Cloud Native & AI Labs business and is also the HCL CTO for Cloud Native.  A successful entrepreneur and technologist, Alan is deeply passionate about using technology to support the digital transformation of business and driving the creation of innovative products and services.</p>\n\n<p>Alan has an extensive track record as both a visionary and thought leader. He combines in-depth engineering credibility with real hands-on experience leading global technology organizations. With a track record of bringing over 250 software products to market, Alan has a unique perspective on the application of modern Cloud-enabled services to accelerate market success.</p>\n\n<p>HCL Cloud Native & AI Labs are the HCL Centre of Excellence, helping clients leverage modern technologies and practices to accelerate transformation.</p>\n\n<p>Working closely with HCL ecosystem partners, the Labs showcase the Art-of-the-Possible, and with a track record of over 1,000 engagements, the Labs are uniquely positioned to guide our clients’ complete journey.</p>\n\n<p>The Labs provide engineering assistance to modernize existing applications, or to create innovative new solutions. Deeply collaborative, our Labs also provide education and skills modernization to support the cultural transformation necessary to make the vision of a Cloud Native Enterprise become a reality.</p>\n\n<p>Alan leads HCL corporate participation in leading open-source communities such as the Linux Foundation and the Cloud Native Computing Foundation (CNCF).</p>\n\n<p>He is a Fellow of both the British Computer Society and a Fellow of the Institute of Enterprise and Entrepreneurs.</p>",
+        "bio": "<p>Alan heads the HCL Cloud Native & AI Labs business and is also the HCL CTO for Cloud Native.  A successful entrepreneur and technologist, Alan is deeply passionate about using technology to support the digital transformation of business and driving the creation of innovative products and services.</p>\n\n<p>Alan has an extensive track record as both a visionary and thought leader. He combines in-depth engineering credibility with real hands-on experience leading global technology organizations. With a track record of bringing over 250 software products to market, Alan has a unique perspective on the application of modern Cloud-enabled services to accelerate market success.</p>\n\n<p>HCL Cloud Native & AI Labs are the HCL Centre of Excellence, helping clients leverage modern technologies and practices to accelerate transformation.</p>\n\n<p>Working closely with HCL ecosystem partners, the Labs showcase the Art-of-the-Possible, and with a track record of over 1,000 engagements, the Labs are uniquely positioned to guide our clients’ complete journey.</p>\n\n<p>The Labs provide engineering assistance to modernize existing applications, or to create innovative new solutions. Deeply collaborative, our Labs also provide education and skills modernization to support the cultural transformation necessary to make the vision of a Cloud Native Enterprise become a reality.</p>\n\n<p>Alan leads HCL corporate participation in leading open-source communities such as the Linux Foundation and the Cloud Native Computing Foundation (CNCF).</p>\n\n<p>He is a Fellow of both the British Computer Society and a Fellow of the Institute of Enterprise and Entrepreneurs.</p>",
         "company": "HCLTech",
         "pronouns": "He/Him",
         "linkedin": "https://www.linkedin.com/in/alanflower",
@@ -21364,7 +21364,7 @@
     },
     {
         "name": "Fábio Abreu",
-        "bio": "<p>DevOps Engineer from Porto, Portugal, navigating the orbit of modern infrastructure and transforming complex systems into smooth, developer-friendly platforms.  With a background in systems, networking, and software engineering, I specialize in designing scalable and secure Kubernetes environments, powered by GitOps principles and Cloud Native best practices.  My focus is on building reliable platforms, strengthening security, and improving observability to bridge the gap between development and operations—making deployment pipelines smoother, faster, and more reliable. Curious by nature and always learning, I’m excited to keep growing and exploring new frontiers in the Cloud Native universe.</p>",
+        "bio": "<p>DevOps Engineer from Porto, Portugal, navigating the orbit of modern infrastructure and transforming complex systems into smooth, developer-friendly platforms.  With a background in systems, networking, and software engineering, I specialize in designing scalable and secure Kubernetes environments, powered by GitOps principles and Cloud Native best practices.  My focus is on building reliable platforms, strengthening security, and improving observability to bridge the gap between development and operations—making deployment pipelines smoother, faster, and more reliable. Curious by nature and always learning, I’m excited to keep growing and exploring new frontiers in the Cloud Native universe.</p>",
         "company": "Critical TechWorks",
         "pronouns": "He/Him",
         "location": "Porto, Portugal",
@@ -22443,7 +22443,7 @@
     },
     {
         "name": "Gilmar Araujo",
-        "bio": "<p>I am a Site Reliability Engineer, working across large‑scale, mission‑critical environments to improve reliability, evolving architectures, automation, and performance in Brazil’s tech industry. I hold a Bachelor’s degree in Computer Science. Notable milestones include leading post‑mortems with root‑cause remediation, hardening Kubernetes workloads and services in production, and driving diagnostic and observability improvements across complex platforms. Core strengths span Kubernetes, Istio, Argo CD (GitOps), Helm, Prometheus/Grafana, with practical development in Golang, Java and etc, and automation pipelines; backed by Kubernetes certifications (CKA, CKAD, CKS, KCNA and KCSA) following the seven principles of SRE and aligned with CNCF guidance on cloud‑native fundamentals. Outside of work, I enjoy participating in SRE meetups, play soccer, and read books. </p>",
+        "bio": "<p>I am a Site Reliability Engineer, working across large‑scale, mission‑critical environments to improve reliability, evolving architectures, automation, and performance in Brazil’s tech industry. I hold a Bachelor’s degree in Computer Science. Notable milestones include leading post‑mortems with root‑cause remediation, hardening Kubernetes workloads and services in production, and driving diagnostic and observability improvements across complex platforms. Core strengths span Kubernetes, Istio, Argo CD (GitOps), Helm, Prometheus/Grafana, with practical development in Golang, Java and etc, and automation pipelines; backed by Kubernetes certifications (CKA, CKAD, CKS, KCNA and KCSA) following the seven principles of SRE and aligned with CNCF guidance on cloud‑native fundamentals. Outside of work, I enjoy participating in SRE meetups, play soccer, and read books. </p>",
         "company": "",
         "pronouns": "He/Him",
         "location": "Joinville, Santa Catarina, Brazil",
@@ -23262,7 +23262,7 @@
     },
     {
         "name": "Gábor Szabó",
-        "bio": "<p>Gabor is a seasoned Cloud Solution Architect specializing in Kubernetes, Security, and Azure. As a consultant, he helps companies modernize their applications through containerization across public cloud and on-premises environments. He is passionate about emerging technologies and enjoys evangelizing them at conferences and in hands-on workshops. Gabor is excited about innovations and he loves to integrate complex components to form something new, sometimes a bit strange :) but usually a streamlined solution.</p>",
+        "bio": "<p>Gabor is a seasoned Cloud Solution Architect specializing in Kubernetes, Security, and Azure. As a consultant, he helps companies modernize their applications through containerization across public cloud and on-premises environments. He is passionate about emerging technologies and enjoys evangelizing them at conferences and in hands-on workshops. Gabor is excited about innovations and he loves to integrate complex components to form something new, sometimes a bit strange :) but usually a streamlined solution.</p>",
         "company": "",
         "pronouns": "He/Him",
         "location": "Vienna, Austria",
@@ -25962,7 +25962,7 @@
     },
     {
         "name": "Igor Grigorov",
-        "bio": "<p>Software Engineer passionate about microservices architecture and building robust and maintainable solutions. Lately, I've been diving deeper into cloud-native DevOps engineering, sharpening my skills in automation, container orchestration, and modern infrastructure.</p>",
+        "bio": "<p>Software Engineer passionate about microservices architecture and building robust and maintainable solutions. Lately, I've been diving deeper into cloud-native DevOps engineering, sharpening my skills in automation, container orchestration, and modern infrastructure.</p>",
         "company": "PRODYNA SE",
         "pronouns": "He/Him",
         "location": "Belgrade, Serbia",
@@ -29921,7 +29921,7 @@
     },
     {
         "name": "Joe Keegan",
-        "bio": "<p>I get excited when I get to make things, be they cloud infrastructure, software packages or a delicious meal. I get even more excited when I get to teach and enable others to make things. Avid board gamer and sci-fi nerd.</p>",
+        "bio": "<p>I get excited when I get to make things, be they cloud infrastructure, software packages or a delicious meal. I get even more excited when I get to teach and enable others to make things. Avid board gamer and sci-fi nerd.</p>",
         "company": "",
         "pronouns": "He/Him",
         "location": "Boston, United States",
@@ -35151,7 +35151,7 @@
     },
     {
         "name": "Kounoshin Kojiyama",
-        "bio": "<p>I  work as a platform engineer at OPTAGE Inc.  I built a Kubernetes infrastructure within the company . And I aim to build an infrastructure that combines efficiency, scalability, and security, and to create a platform that is easy for developers to use. Definitely, I love and am enthusiastic about development that creates new value!</p>",
+        "bio": "<p>I  work as a platform engineer at OPTAGE Inc.  I built a Kubernetes infrastructure within the company . And I aim to build an infrastructure that combines efficiency, scalability, and security, and to create a platform that is easy for developers to use. Definitely, I love and am enthusiastic about development that creates new value!</p>",
         "company": "OPTAGE Inc.",
         "pronouns": "He/Him",
         "location": "Osaka, Japan",
@@ -35472,7 +35472,7 @@
     },
     {
         "name": "Kugamoorthy Gajananan",
-        "bio": "<p>Gajan, a Senior Consultant, excels at tackling intricate cloud migration, security, and compliance challenges for large enterprises. With over 7 years of experience, he specializes in researching, designing, building, and deploying cloud-native platforms and solutions, emphasizing security. Gajan has actively contributed to open-source cloud-native security projects, including Integrity Shield, Open Cluster Management/policy-collection, Kubernetes community-operators, and ArgoCD Interlace. His passion lies in assisting enterprises in adopting cloud-native practices and tools to enhance their agility, scalability, and resiliency.</p>",
+        "bio": "<p>Gajan, a Senior Consultant, excels at tackling intricate cloud migration, security, and compliance challenges for large enterprises. With over 7 years of experience, he specializes in researching, designing, building, and deploying cloud-native platforms and solutions, emphasizing security. Gajan has actively contributed to open-source cloud-native security projects, including Integrity Shield, Open Cluster Management/policy-collection, Kubernetes community-operators, and ArgoCD Interlace. His passion lies in assisting enterprises in adopting cloud-native practices and tools to enhance their agility, scalability, and resiliency.</p>",
         "company": "",
         "pronouns": "He/Him",
         "location": "Melbourne, Australia",
@@ -35664,7 +35664,7 @@
     },
     {
         "name": "Kunal Verma",
-        "bio": "<p>Kunal is a DevOps and Cloud Native Advocate with a passion for Open Source. He's been involved in the DevOps and open-source ecosystem for 2+ years now and has strong experience in public speaking, community management, content creation etc. He has experience working on and contributing to some of the major projects in the CNCF, including Kubernetes, Layer5 and others. He strives to empower others with his experiences and believes in growing with the community! These days, his focus lies in the field of DevOps, Cloud Native and Developer Relations.  </p>",
+        "bio": "<p>Kunal is a DevOps and Cloud Native Advocate with a passion for Open Source. He's been involved in the DevOps and open-source ecosystem for 2+ years now and has strong experience in public speaking, community management, content creation etc. He has experience working on and contributing to some of the major projects in the CNCF, including Kubernetes, Layer5 and others. He strives to empower others with his experiences and believes in growing with the community! These days, his focus lies in the field of DevOps, Cloud Native and Developer Relations.  </p>",
         "company": "Independant",
         "pronouns": "He/Him",
         "location": "Mumbai, India",
@@ -37513,7 +37513,7 @@
     },
     {
         "name": "Lucas Stofaleti",
-        "bio": "<p>I'm a Senior DevOps Engineer with a passion for continuous delivery and infrastructure automation. As a big advocate for open-source technology, I believe in using technology to bridge the gap between people and companies.</p>",
+        "bio": "<p>I'm a Senior DevOps Engineer with a passion for continuous delivery and infrastructure automation. As a big advocate for open-source technology, I believe in using technology to bridge the gap between people and companies.</p>",
         "company": "Eurofiber Cloud Infra",
         "pronouns": "He/Him",
         "location": "Eindhoven, North Brabant, Netherlands",
@@ -53192,7 +53192,7 @@
     },
     {
         "name": "Ravi Gundapi",
-        "bio": "<p>I am an experienced DevOps Engineer with expertise in AWS, Kubernetes and DevOps methodologies. I have a strong desire to learn new technologies and enhance my skills, so that I can progress both technically and professionally.</p>",
+        "bio": "<p>I am an experienced DevOps Engineer with expertise in AWS, Kubernetes and DevOps methodologies. I have a strong desire to learn new technologies and enhance my skills, so that I can progress both technically and professionally.</p>",
         "company": "CGI",
         "pronouns": "He/Him",
         "location": "BRISTOL, United Kingdom",
@@ -53937,7 +53937,7 @@
         "bio": "Ricardo is a Cloud Native AI Lead at Snowflake. He's an open source enthusiast, co-chairing the CNCF TAG-Runtime, lead for the Cloud Native AI Working Group and CNCF Ambassador. Recently, he led the publication of the Cloud Native AI Whitepaper and is currently leading various initiatives in the Cloud Native AI Working Group. He has worked in tech and software engineering roles for over 25 years. He comes from a diverse professional background, having held different roles at large companies such as Rakuten, Cisco, and VMware and startups such as Truera, Branch Metrics and Coupa.",
         "company": "Snowflake",
         "pronouns": "He/Him",
-        "location": "United States",
+        "location": "United States",
         "linkedin": "https://www.linkedin.com/in/raravena",
         "twitter": "https://twitter.com/raravena80",
         "github": "https://github.com/raravena80",
@@ -61513,7 +61513,7 @@
     },
     {
         "name": "Stanislav Kolenkin",
-        "bio": "<p>I have been working in the IT industry for 16+ years and has enormous hands-on and managerial experience with the most innovative DevOps projects using Kubernetes,  OpenStack, AWS, GCP, and Bare-Metal tech stacks. My professional achievements are numerous certificates, including SEI Software Architecture Professional Certificate, Kubernetes, AWS, GCP Certifications, and many others. Along with his outstanding architect skills and vast industry knowledge, I am proficient in critical problem-solving and excels in dealing with non-standard production issues.</p>",
+        "bio": "<p>I have been working in the IT industry for 16+ years and has enormous hands-on and managerial experience with the most innovative DevOps projects using Kubernetes,  OpenStack, AWS, GCP, and Bare-Metal tech stacks. My professional achievements are numerous certificates, including SEI Software Architecture Professional Certificate, Kubernetes, AWS, GCP Certifications, and many others. Along with his outstanding architect skills and vast industry knowledge, I am proficient in critical problem-solving and excels in dealing with non-standard production issues.</p>",
         "company": "",
         "pronouns": "He/Him",
         "location": "Warsaw, Poland",
@@ -61892,7 +61892,7 @@
     },
     {
         "name": "Steven Trescinski",
-        "bio": "<p>DevOps minded, Cloud focused Open Source enthusiast with a deep and growing passion for Linux, Containers, Orchestrators, Microservices and Chaos Engineering. Always on the lookout for new technologies that help drive automation for both development and operational teams.</p>",
+        "bio": "<p>DevOps minded, Cloud focused Open Source enthusiast with a deep and growing passion for Linux, Containers, Orchestrators, Microservices and Chaos Engineering. Always on the lookout for new technologies that help drive automation for both development and operational teams.</p>",
         "company": "Gluo",
         "pronouns": "",
         "location": "Limburg, Belgium",
@@ -64542,7 +64542,7 @@
     },
     {
         "name": "Thomas Vaillant",
-        "bio": "<p>I’m a DevOps consultant with 10+ years helping teams ship reliable, cloud‑native software in high‑scale and regulated environments. I started as a full‑stack developer before specializing in DevOps, so I naturally bridge app code, infrastructure, and developer experience. Day to day you’ll find me on Kubernetes, Terraform, CI/CD, and observability; and I’m happy to jump into Go or TypeScript when it helps. I’ve led SRE teams and migrations from legacy to the cloud with a focus on security and pragmatic business impact. I love contributing to open source and leaving teams more autonomous than when I arrived.</p>",
+        "bio": "<p>I’m a DevOps consultant with 10+ years helping teams ship reliable, cloud‑native software in high‑scale and regulated environments. I started as a full‑stack developer before specializing in DevOps, so I naturally bridge app code, infrastructure, and developer experience. Day to day you’ll find me on Kubernetes, Terraform, CI/CD, and observability; and I’m happy to jump into Go or TypeScript when it helps. I’ve led SRE teams and migrations from legacy to the cloud with a focus on security and pragmatic business impact. I love contributing to open source and leaving teams more autonomous than when I arrived.</p>",
         "company": "Bluebricks",
         "pronouns": "",
         "location": "Paris, France",
@@ -72424,5 +72424,25 @@
         ],
         "slack_id": "",
         "image": "phippy.jpg"
+    },
+    {
+        "name": "Ilter Efe",
+        "bio": "<p>Ilter is a Cloud DevOps Engineer and official Kubestronaut specializing in Kubernetes, compliance‑focused security, and platform automation. He builds and operates multi‑cloud environments on AWS and Azure, utilizing Terraform and modern CI/CD to automate infrastructure at invent.ai.</p>",
+        "company": "invent.ai",
+        "pronouns": "He/Him",
+        "location": "Istanbul, Turkiye",
+        "linkedin": "https://www.linkedin.com/in/ilterefe/",
+        "twitter": "",
+        "github": "https://github.com/ilterefe",
+        "bluesky": "",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "category": [
+            "Kubestronaut"
+        ],
+        "email": "ilterefe34@gmail.com",
+        "slack_id": "",
+        "image": "ilter.jpg"
     }
 ]
